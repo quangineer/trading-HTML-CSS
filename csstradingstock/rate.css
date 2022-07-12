@@ -1,0 +1,49 @@
+#logo {
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
+
+body {
+  background-color: black;
+  font-family: "Verdana", sans-serif;
+  color: white;
+}
+
+#rate {
+    color: white;
+    text-align: center;
+  }
+
+  main {
+    margin: 0 auto;
+    padding: 10px;
+    text-align: justify;
+    width: 800px;
+    height: 700px;
+    color: grey;
+  }
+
+figure {
+  display: left;
+  width: 50%;
+}
+figure figcaption {
+  color: white;
+  text-align: right;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-weight: thin;
+}
+#footer {
+    color: grey;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1.5rem;
+    padding: 20px;
+  }
